@@ -26,7 +26,7 @@ body {
 }
 
 body { 
-    background-color: #9EB239;
+    background-color: #FFFFFF;
 /*  background: url(../img/growlabs.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1345,12 +1345,14 @@ border-bottom: 1px dotted black;
     }
 }
 
-.container-fluid { 
-    background-color: #9EB239;
+/*.container-fluid { 
+    background-color: #FFFFFF;
 }
+*/
+
 
 .navbar-inverse .navbar-nav>li>a {
-color: #000000;
+font-size: 1.5em;
 }
 
 .navbar-inverse {
@@ -1373,9 +1375,10 @@ height: 63px;
 
 z-index: 20;
 }
-
+/*
+------CONTROLES DROP DOWN NAV IN 500PX SCREEN SIZE
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
 border-color: #101010;
 background-color: #3F9AB5;
 margin: 0px;
-}
+}*/
